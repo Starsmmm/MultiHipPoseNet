@@ -30,6 +30,6 @@ We provide several python scripts that contain functions for data processing, di
 
 This project utilizes parts of [Bubbliiiing](https://github.com/Bubbliiiing)'s [unet-pytorch](https://github.com/bubbliiiing/unet-pytorch) and includes modifications and improvements made by us. We thank them for their excellent work.
 
-## Issues/Pull Requests/Feedbacks
+## Issues
 
-Don't hesitate to contact for any feedback or create issues/pull requests/feedbacks.
+Don't hesitate to contact for any feedback or create issues/pull requests.
