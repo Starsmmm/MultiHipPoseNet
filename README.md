@@ -2,7 +2,7 @@
 
 This is a pytorch implementation of MultiHipPoseNet, a multitasking model for structure segmentation and keypoint detection
 
-![image](https://github.com/Starsmmm/MultiHipPoseNet/nets/schematic illustration.png)
+![image](https://github.com/Starsmmm/MultiHipPoseNet/nets/schematic%20illustration.png)
 
 The schematic illustration of the MuiltHipPoseNet algorithm. The proposed framework comprises a series of interconnected layers, each with a specific purpose. Conv, represents the convolutional layer. The normalization technique employed here is group normalization, while the activation function is Relu. MaxPooling, is responsible for maximum pooling. Up-sampling, is tasked with upsampling feature maps to recover dimensions. ME-GCT, utilizes a hybrid gated attention unit consisting of multiple experts with adjustable parameters for the number of experts. BINK1 and BINK2 represent different kinds of residual modules.
 
